@@ -5,7 +5,7 @@
 
 - 👨‍💻 All of my projects are available at [alainferar.es](alainferar.es)
 
-- 📫 How to reach me **contact@alainferar.es**
+- 📫 How to reach me **contacto@alainferar.es**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
